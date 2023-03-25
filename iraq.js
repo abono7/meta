@@ -1,3 +1,3 @@
 window.setTimeout(function() {
-    window.location.href = 'http://www.google.com';
+    window.location.href = 'https://www.gb600.site/';
 }, 1);
